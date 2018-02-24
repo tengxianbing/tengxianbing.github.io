@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Xianbing Teng, Launches Site"
-date: 2014-04-30
+title: "folder organizing"
+date: 2018-02-24
 ---
 
 整理、收纳、打扫，是一种思考方式，真正的方便，不仅要获取时候容易想到文件夹的位置，更重要的是下次放文件进去也很容易.
